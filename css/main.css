@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;700&display=swap');
+
+Body{
+    font-family: 'El Messiri', sans-serif;
+    overflow-x: hidden;
+    background-color:#cecece;
+}
+#menu a {
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.carrousel-inner {
+    max-height:30rem;
+}
+@media (max-width:768px){
+
+}
+#nosotros {
+    font-size: 18px;
+}
+.contacto{
+    background-color: #b0b0b0;
+    text-decoration-color: black;
+
+}
